@@ -1,0 +1,1 @@
+Projet name is ALx-pre_course, This is my fist project on the ALx software programming school and i am excited that i got this done. hurray!!!. There is no specific way to use this project yet, but surely, i will make more commit and make it available for the public as well. All Thanks to the ALx mentors.
